@@ -1,0 +1,46 @@
+
+#2015.04.24 添加參數和說明
+
+patch:
+#取消字频调整
+  translator/enable_user_dict: false
+#關閉碼表輸入法連打
+  translator/enable_sentence: false
+#關閉倉頡與拼音混打
+  abc_segmentor/extra_tags: {}
+#无重碼自動上屏
+  speller/auto_select: true
+  
+#調整字根展示方式
+  translator/preedit_format: 
+#   - xform/^([a-z]*)$/$1 | \U$1\E/ 「字根在前，字母在後」「([a-z]*)后面加了$是大写字母」
+    - xform/^([a-z]*)/\U$1\E | $1/
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+    - xform/^([A-Z]*)/\L$1\E/
+  translator/comment_format:
+#   字母在後，提示顯示爲字母
+    - xlit|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符~|abcdefghijklmnopqrstuvwxyz~|
+  
+#以下兩行爲去除朙月拼音依赖
+  "reverse_lookup/dictionary": {}
+  "schema/dependencies": {}
+
+#以下兩行爲輸入Symbols修正，修正後按「/」才能調出符號
+  "punctuator/import_preset": symbols
+  "recognizer/patterns/punct": "^/([a-z]+|[0-9])$"
+
+#幾個字符調整
+  punctuator/full_shape:
+    "~" : "~"
+    '/' : [ ／, ÷ ]
+  punctuator/half_shape:
+    "~" : "~"
+    '/' : ['/', ／, ÷ ]
+
+#加入常用符號
+  punctuator/symbols:
+#常用符號/物理
+    '/cyw': [ °, °C, Ω, Φ, m², cm², km², m³ ]
+#常用符號/數學
+    '/cys': [ ±, ×, ÷, ≤, ≥, ≠, ≈, √, ∞ ]
+

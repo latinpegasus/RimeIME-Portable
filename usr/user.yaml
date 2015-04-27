@@ -1,0 +1,4 @@
+var:
+  option:
+    extended_charset: true
+  previously_selected_schema: cangjie5
