@@ -1,9 +1,0 @@
-customization:
-  distribution_code_name: Weasel
-  distribution_version: 0.9.20.1
-  generator: "Rime::SwitcherSettings"
-  modified_time: "Wed Apr 24 16:55:25 2013"
-  rime_version: 0.9.7
-patch:
-  schema_list:
-    - schema: cangjie5
