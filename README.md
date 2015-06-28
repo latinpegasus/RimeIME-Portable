@@ -7,3 +7,5 @@
 - 2015.06.23  Ctrl鍵切換中英文
 
 [rime輸入法項目](https://github.com/rime/home/wiki)
+
+[倉頡輸入法相關書籍](book/)
