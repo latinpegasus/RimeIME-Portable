@@ -1,8 +1,10 @@
 ##RimeIME Portable
 
-批处理实现Rime輸入便携版
+批處理實現Rime小狼毫輸入便攜版
 
-个人用码表：倉頡五代
+![](img/folder-structure.jpg)
+
+個人碼表：倉頡五代
 
 - 2015.06.29  調整“|”鍵位Symbols
 
