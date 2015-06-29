@@ -2,7 +2,7 @@
 
 批處理實現Rime小狼毫輸入便攜版
 
-![](img/folder-structure.jpg)
+![folder-structure](img/folder-structure.jpg)
 
 個人碼表：倉頡五代
 
