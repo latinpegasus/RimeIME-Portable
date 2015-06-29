@@ -1,5 +1,9 @@
 ##RimeIME Portable
 
+Rime Portable, a portable version of Rime Input.
+
+You should put your personal data into "usr" folder and the Rime (小狼毫) application into "weasel" folder. Run "install.bat" to install the portable version to your computer and "uninstall.bat" to uninstall from your computer.
+
 批處理實現Rime小狼毫輸入便攜版
 
 ![folder-structure](img/folder-structure.jpg)
