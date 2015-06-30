@@ -6,7 +6,11 @@ You should put your personal data into "usr" folder and the Rime (小狼毫) app
 
 批處理實現Rime小狼毫輸入便攜版
 
+批處理作者：**大水牛** 2013.9.11
+
 ![folder-structure](img/folder-structure.jpg)
+
+Cangjie-5 sequence for traditional and simplified Chinese characters, more than 70,000 characters in total.
 
 個人碼表：倉頡五代
 
