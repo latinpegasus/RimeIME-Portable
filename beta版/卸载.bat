@@ -19,6 +19,8 @@ taskkill /f /im GoogleInputHandler.exe
 del c:\windows\system32\input.ime
 del c:\windows\syswow64\input.ime
 
+rmdir /s /q %pf%"\Google"
+
 rmdir /s /q "C:\ProgramData\Google\Google Input Tools"
 
 rmdir /s /q %appdata%"\Google"
