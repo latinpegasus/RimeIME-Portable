@@ -17,9 +17,7 @@ Cangjie-5 sequence for traditional and simplified Chinese characters, more than 
 - 2015.06.29  調整“|”和“/jt”
 - 2015.06.23  Ctrl鍵切換中英文
 
-[rime輸入法項目](https://github.com/rime/home/wiki)
-
-####[倉頡輸入法相關書籍](book/)
+####倉頡輸入法相關書籍
 
 | | |
 | :--- | :--- |
@@ -31,3 +29,8 @@ Cangjie-5 sequence for traditional and simplified Chinese characters, more than 
 | 正體字敎程 | 繁體字通俗演義(2010.09.23).pdf |
 | | 國字標準字體楷書母稿＜教育部字序＞.pdf |
 | | …… |
+| 下載地址 | [Book](book/) |
+
+####Rime輸入法項目
+
+https://github.com/rime/home/wiki
