@@ -13,7 +13,7 @@ You should put your personal data into "usr" folder and the Rime (小狼毫) app
 ####個人碼表：倉頡五代
 
 Cangjie-5 sequence for traditional and simplified Chinese characters, more than 70,000 characters in total.
-
+- 2016.01.23  取消F4快捷鍵
 - 2015.06.29  調整“|”和“/jt”
 - 2015.06.23  Ctrl鍵切換中英文
 
