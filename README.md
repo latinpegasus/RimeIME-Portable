@@ -13,6 +13,9 @@ You should put your personal data into "usr" folder and the Rime (小狼毫) app
 ####個人碼表：倉頡五代
 
 Cangjie-5 sequence for traditional and simplified Chinese characters, more than 70,000 characters in total.
+- 2016.08.01 添加两个符号
+- 2016.07.26 取消顶字上屏, 防止"签到"这种词第一个字打错
+- 2016.05.06 調整字根展示方式
 - 2016.01.24  更改方案默認設置
 - 2016.01.23  取消F4快捷鍵
 - 2015.06.29  調整“|”和“/jt”
