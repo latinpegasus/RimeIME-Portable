@@ -13,7 +13,7 @@ You should put your personal data into "usr" folder and the Rime (小狼毫) app
 ####個人碼表：倉頡五代
 
 Cangjie-5 sequence for traditional and simplified Chinese characters, more than 70,000 characters in total.
-- 2016.12.08 默认"增廣", "中文標點"
+- 2016.12.12 默认"增廣", "英文標點"
 - 2016.10.10 仓五码表增加200余字(From: Rime群)
 - 2016.08.01 添加两个符号
 - 2016.07.26 取消顶字上屏, 防止"签到"这种词第一个字打错
