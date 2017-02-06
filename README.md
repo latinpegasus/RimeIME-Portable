@@ -22,7 +22,6 @@ Cangjie-5 sequence for traditional and simplified Chinese characters, more than 
 - 2016.01.24  更改方案默認設置
 - 2016.01.23  取消F4快捷鍵
 - 2015.06.29  調整“|”和“/jt”
-- 2015.06.23  Ctrl鍵切換中英文
 
 ####倉頡輸入法相關書籍
 
